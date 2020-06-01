@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faf9a902-2fa9-46dc-875e-b935c8dd4e44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1ZPcOclmWeRRPTVgRfFrTzBwaLG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-11" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderServiceSubmitTest.testFindProductsByIdSize2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.codenation.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="br.com.codenation.service.OrderServiceSubmitTest" />
+      <option name="METHOD_NAME" value="testFindProductsByIdSize2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderServiceSubmitTest.testFindProductsByIdSize2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faf9a902-2fa9-46dc-875e-b935c8dd4e44" name="Default Changelist" comment="" />
+      <created>1584744138517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584744138517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="3" key="#OrderServiceSubmitTest.testFindProductsByIdSize2" timestamp="1584745342140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="248" y="3" key="#OrderServiceSubmitTest.testFindProductsByIdSize2/0.0.1366.728@0.0.1366.728" timestamp="1584745342140" />
+    <state x="242" y="23" key="#Project_Structure" timestamp="1584745362586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="242" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584745362586" />
+    <state x="430" y="120" key="FileChooserDialogImpl" timestamp="1584989380474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584989380474" />
+  </component>
+</project>
